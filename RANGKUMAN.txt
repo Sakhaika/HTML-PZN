@@ -1,0 +1,9 @@
+----- RANGKUMAN HTML DASAR PZN -----
+
+WEB berisikan halaman informasi dan WEB disimpan di web server
+setiap web memiliki alamat ip address namun seseorang kesulitan untuk mehafal id address oleh karena itu ada domain
+domain mewakili ip address setiap web
+web server akan mentranslate domain ke ip address jadi tetap yang dibaca di web server ip address
+selain web server ada pula web browser yang mana membaca kode mesin untuk ditampilkan secara visual
+di komputer saya terdapat web browser yang terdapat internet lalu kita ingin mengakses suatu website nantinya web server akan memberik kita kode mesin yang akan di baca oleh web browser kita ditampilkan secara visual
+
