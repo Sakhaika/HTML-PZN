@@ -6,4 +6,6 @@ domain mewakili ip address setiap web
 web server akan mentranslate domain ke ip address jadi tetap yang dibaca di web server ip address
 selain web server ada pula web browser yang mana membaca kode mesin untuk ditampilkan secara visual
 di komputer saya terdapat web browser yang terdapat internet lalu kita ingin mengakses suatu website nantinya web server akan memberik kita kode mesin yang akan di baca oleh web browser kita ditampilkan secara visual
+web server juga dapat disebut web hosting yang mana untuk menyediakan data center untuk web bisa diakses oleh komputer lain tanpa adanya web server atau web hosting website tidak akan bisa diakses
+tanpa adanya web hosting kita dapat membuat web server di komputer kita namun harus menyala 24 jam dimana itu tidak efesien makanya ada web hosting atau web server
 
